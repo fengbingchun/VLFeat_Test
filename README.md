@@ -1,6 +1,6 @@
 # VLFeat_Test
-windows7 64bits, VS2013 build VLFeat source code
+***
+- This project is mainly used to test the use of VLFeat.
+- VLFeat source code version: 0.9.20, address [VLFeat](http://www.vlfeat.org/)
+- This project can be directly build with VS2013 in windows7 64bits.
 
-project save path: E:\GitCode
-<p>
-VLFeat source code version: 0.9.20 (address http://www.vlfeat.org/)
